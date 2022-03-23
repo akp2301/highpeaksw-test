@@ -1,9 +1,7 @@
 # README #
 
-### What is this repository for? ###
+### To run the program ###
 
-* Contains all the interview assignments and interview questions
-
-### Contribution guidelines ###
-
-* Create a branch with your name and send a PR
+* go to goodie-dilemma folder. cd goodie-dilemma/
+* run python3 goodie_dilemma_solution.py -i <input_file_path> -o <output_filr_path>
+* Eg : python3 goodie_dilemma_solution.py -i sample_input2.txt -o output2.txt

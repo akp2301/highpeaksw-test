@@ -1,7 +1,4 @@
-Number of employees: 4
-
-Goodies and Prices:
-
+4
 Fitbit Plus: 7980
 IPods: 22349
 MI Band: 999

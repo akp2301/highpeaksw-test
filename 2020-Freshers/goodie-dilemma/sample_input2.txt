@@ -1,0 +1,3 @@
+2
+Microwave Oven: 9800
+Alexa: 9999
